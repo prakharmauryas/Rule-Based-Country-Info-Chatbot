@@ -76,7 +76,7 @@ resources/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Rule-Based-Country-Info-Chatbot.git
+git clone https://github.com/prakharmauryas/Rule-Based-Country-Info-Chatbot.git
 cd Rule-Based-Country-Info-Chatbot
 ```
 
