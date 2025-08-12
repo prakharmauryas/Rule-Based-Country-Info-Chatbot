@@ -1,0 +1,917 @@
+{
+  "Afghanistan": {
+    "capital": "Kabul",
+    "nationalAnimal": "Snow Leopard",
+    "nationalFlower": "Tulip"
+  },
+  "Albania": {
+    "capital": "Tirana",
+    "nationalAnimal": "Golden Eagle",
+    "nationalFlower": "Red Poppy"
+  },
+  "Algeria": {
+    "capital": "Algiers",
+    "nationalAnimal": "Fennec Fox",
+    "nationalFlower": "Iris"
+  },
+  "Andorra": {
+    "capital": "Andorra la Vella",
+    "nationalAnimal": "Andorran Pyrenean Chamois",
+    "nationalFlower": "Grandalla (Narcissus)"
+  },
+  "Angola": {
+    "capital": "Luanda",
+    "nationalAnimal": "Giant Sable Antelope",
+    "nationalFlower": "Welwitschia"
+  },
+  "Antigua and Barbuda": {
+    "capital": "St. John's",
+    "nationalAnimal": "Fallow Deer",
+    "nationalFlower": "Agave Karatto (Dagger's Log)"
+  },
+  "Argentina": {
+    "capital": "Buenos Aires",
+    "nationalAnimal": "Rufous Hornero",
+    "nationalFlower": "Ceibo"
+  },
+  "Armenia": {
+    "capital": "Yerevan",
+    "nationalAnimal": "Armenian Gampr Dog",
+    "nationalFlower": "No Official National Flower"
+  },
+  "Australia": {
+    "capital": "Canberra",
+    "nationalAnimal": "Red Kangaroo",
+    "nationalFlower": "Golden Wattle"
+  },
+  "Austria": {
+    "capital": "Vienna",
+    "nationalAnimal": "Austrian Black and Tan Hound",
+    "nationalFlower": "Edelweiss"
+  },
+  "Azerbaijan": {
+    "capital": "Baku",
+    "nationalAnimal": "Karabakh Horse",
+    "nationalFlower": "Khari Bulbul"
+  },
+   "Bahamas": {
+    "capital": "Nassau",
+    "nationalAnimal": "Flamingo",
+    "nationalFlower": "Yellow Elder"
+  },
+  "Bahrain": {
+    "capital": "Manama",
+    "nationalAnimal": "Arabian Oryx",
+    "nationalFlower": "Tribulus Omanense"
+  },
+  "Bangladesh": {
+    "capital": "Dhaka",
+    "nationalAnimal": "Bengal Tiger",
+    "nationalFlower": "Shapla (White Water Lily)"
+  },
+  "Barbados": {
+    "capital": "Bridgetown",
+    "nationalAnimal": "Mahi-mahi",
+    "nationalFlower": "Pride of Barbados"
+  },
+  "Belarus": {
+    "capital": "Minsk",
+    "nationalAnimal": "European Bison",
+    "nationalFlower": "Flax"
+  },
+  "Belgium": {
+    "capital": "Brussels",
+    "nationalAnimal": "Lion",
+    "nationalFlower": "Red Poppy"
+  },
+  "Belize": {
+    "capital": "Belmopan",
+    "nationalAnimal": "Baird's Tapir",
+    "nationalFlower": "Black Orchid"
+  },
+  "Benin": {
+    "capital": "Porto-Novo",
+    "nationalAnimal": "Leopard",
+    "nationalFlower": "Royal Poinciana"
+  },
+  "Bhutan": {
+    "capital": "Thimphu",
+    "nationalAnimal": "Takin",
+    "nationalFlower": "Blue Poppy"
+  },
+  "Bolivia": {
+    "capital": "Sucre (constitutional), La Paz (administrative)",
+    "nationalAnimal": "Llama",
+    "nationalFlower": "Cantuta"
+  },
+  "Bosnia and Herzegovina": {
+    "capital": "Sarajevo",
+    "nationalAnimal": "Golden Lily",
+    "nationalFlower": "Golden Lily"
+  },
+  "Botswana": {
+    "capital": "Gaborone",
+    "nationalAnimal": "Zebra",
+    "nationalFlower": "Kalahari Devil's Claw"
+  },
+  "Brazil": {
+    "capital": "Brasília",
+    "nationalAnimal": "Jaguar",
+    "nationalFlower": "Golden Trumpet Tree"
+  },
+  "Brunei": {
+    "capital": "Bandar Seri Begawan",
+    "nationalAnimal": "White-bellied Sea Eagle",
+    "nationalFlower": "Simpor"
+  },
+  "Bulgaria": {
+    "capital": "Sofia",
+    "nationalAnimal": "Lion",
+    "nationalFlower": "Rose"
+  },
+  "Burkina Faso": {
+    "capital": "Ouagadougou",
+    "nationalAnimal": "White Stallion",
+    "nationalFlower": "Red Rose"
+  },
+  "Burundi": {
+    "capital": "Gitega",
+    "nationalAnimal": "Spotted Hyena",
+    "nationalFlower": "Imbande"
+  },
+  "Cabo Verde": {
+    "capital": "Praia",
+    "nationalAnimal": "Grey-headed Kingfisher",
+    "nationalFlower": "Blue-and-White Periwinkle"
+  },
+  "Cambodia": {
+    "capital": "Phnom Penh",
+    "nationalAnimal": "Kouprey",
+    "nationalFlower": "Romduol"
+  },
+  "Cameroon": {
+    "capital": "Yaoundé",
+    "nationalAnimal": "Lion",
+    "nationalFlower": "Red Stinkwood"
+  },
+  "Canada": {
+    "capital": "Ottawa",
+    "nationalAnimal": "Beaver",
+    "nationalFlower": "Bunchberry"
+  },
+  "Central African Republic": {
+    "capital": "Bangui",
+    "nationalAnimal": "Elephant",
+    "nationalFlower": "Flame Lily"
+  },
+  "Chad": {
+    "capital": "N'Djamena",
+    "nationalAnimal": "Goat",
+    "nationalFlower": "Blue Desert Lily"
+  },
+  "Chile": {
+    "capital": "Santiago",
+    "nationalAnimal": "Huemul",
+    "nationalFlower": "Copihue"
+  },
+  "China": {
+    "capital": "Beijing",
+    "nationalAnimal": "Giant Panda",
+    "nationalFlower": "Peony"
+  },
+  "Colombia": {
+    "capital": "Bogotá",
+    "nationalAnimal": "Andean Condor",
+    "nationalFlower": "Christmas Orchid"
+  },
+  "Comoros": {
+    "capital": "Moroni",
+    "nationalAnimal": "Mongoose Lemur",
+    "nationalFlower": "Ylang-Ylang"
+  },
+  "Congo, Democratic Republic of the": {
+    "capital": "Kinshasa",
+    "nationalAnimal": "Okapi",
+    "nationalFlower": "Flame Tree"
+  },
+  "Congo, Republic of the": {
+    "capital": "Brazzaville",
+    "nationalAnimal": "African Forest Elephant",
+    "nationalFlower": "Bougainvillea"
+  },
+  "Costa Rica": {
+    "capital": "San José",
+    "nationalAnimal": "White-tailed Deer",
+    "nationalFlower": "Guaria Morada Orchid"
+  },
+  "Croatia": {
+    "capital": "Zagreb",
+    "nationalAnimal": "Pine Marten",
+    "nationalFlower": "Iris Croatica"
+  },
+  "Cuba": {
+    "capital": "Havana",
+    "nationalAnimal": "Cuban Trogon",
+    "nationalFlower": "White Mariposa"
+  },
+  "Cyprus": {
+    "capital": "Nicosia",
+    "nationalAnimal": "Cypriot Mouflon",
+    "nationalFlower": "Cyclamen"
+  },
+  "Czech Republic": {
+    "capital": "Prague",
+    "nationalAnimal": "Double-tailed Lion",
+    "nationalFlower": "Rose"
+  },
+  "Denmark": {
+    "capital": "Copenhagen",
+    "nationalAnimal": "Mute Swan",
+    "nationalFlower": "Marguerite Daisy"
+  },
+  "Djibouti": {
+    "capital": "Djibouti",
+    "nationalAnimal": "Elk",
+    "nationalFlower": "Bitterball Flower"
+  },
+  "Dominica": {
+    "capital": "Roseau",
+    "nationalAnimal": "Sisserou Parrot",
+    "nationalFlower": "Bwa Kwaib (Carib Wood)"
+  },
+  "Dominican Republic": {
+    "capital": "Santo Domingo",
+    "nationalAnimal": "Palmchat",
+    "nationalFlower": "Bayahibe Rose"
+  },
+  "Ecuador": {
+    "capital": "Quito",
+    "nationalAnimal": "Andean Condor",
+    "nationalFlower": "Rose"
+  },
+  "Egypt": {
+    "capital": "Cairo",
+    "nationalAnimal": "Steppe Eagle",
+    "nationalFlower": "Egyptian Lotus"
+  },
+  "El Salvador": {
+    "capital": "San Salvador",
+    "nationalAnimal": "Turquoise-browed Motmot",
+    "nationalFlower": "Flor de Izote"
+  },
+  "Equatorial Guinea": {
+    "capital": "Malabo",
+    "nationalAnimal": "Giant Pangolin",
+    "nationalFlower": "Flame of the Forest"
+  },
+  "Eritrea": {
+    "capital": "Asmara",
+    "nationalAnimal": "Arabian Camel",
+    "nationalFlower": "Hibiscus"
+  },
+  "Estonia": {
+    "capital": "Tallinn",
+    "nationalAnimal": "Wolf",
+    "nationalFlower": "Cornflower"
+  },
+  "Eswatini": {
+    "capital": "Mbabane",
+    "nationalAnimal": "Lion",
+    "nationalFlower": "Red Carnation"
+  },
+  "Ethiopia": {
+    "capital": "Addis Ababa",
+    "nationalAnimal": "Lion",
+    "nationalFlower": "Calla Lily"
+  },
+  "Fiji": {
+    "capital": "Suva",
+    "nationalAnimal": "Collared Lory",
+    "nationalFlower": "Tagimaucia"
+  },
+  "Finland": {
+    "capital": "Helsinki",
+    "nationalAnimal": "Brown Bear",
+    "nationalFlower": "Lily of the Valley"
+  },
+  "France": {
+    "capital": "Paris",
+    "nationalAnimal": "Gallic Rooster",
+    "nationalFlower": "Iris"
+  },
+  "Gabon": {
+    "capital": "Libreville",
+    "nationalAnimal": "Black Panther",
+    "nationalFlower": "Flame Tree"
+  },
+  "Gambia": {
+    "capital": "Banjul",
+    "nationalAnimal": "Spotted Hyena",
+    "nationalFlower": "White Variety Orchid"
+  },
+  "Georgia": {
+    "capital": "Tbilisi",
+    "nationalAnimal": "White-Tailed Deer",
+    "nationalFlower": "Rosa Laevigata"
+  },
+  "Germany": {
+    "capital": "Berlin",
+    "nationalAnimal": "Black Eagle",
+    "nationalFlower": "Cornflower"
+  },
+  "Ghana": {
+    "capital": "Accra",
+    "nationalAnimal": "Tawny Eagle",
+    "nationalFlower": "Dry-Season Bloom"
+  },
+  "Greece": {
+    "capital": "Athens",
+    "nationalAnimal": "Dolphin",
+    "nationalFlower": "Bear's Breech"
+  },
+  "Grenada": {
+    "capital": "St. George's",
+    "nationalAnimal": "Grenada Dove",
+    "nationalFlower": "Bougainvillea"
+  },
+  "Guatemala": {
+    "capital": "Guatemala City",
+    "nationalAnimal": "Resplendent Quetzal",
+    "nationalFlower": "White Nun Orchid"
+  },
+  "Guinea": {
+    "capital": "Conakry",
+    "nationalAnimal": "African Elephant",
+    "nationalFlower": "Floral Sepik Blue Orchid"
+  },
+  "Guinea-Bissau": {
+    "capital": "Bissau",
+    "nationalAnimal": "Not Declared",
+    "nationalFlower": "Vernonia"
+  },
+  "Guyana": {
+    "capital": "Georgetown",
+    "nationalAnimal": "Jaguar",
+    "nationalFlower": "Victoria Amazonica (Water Lily)"
+  },
+  "Haiti": {
+    "capital": "Port-au-Prince",
+    "nationalAnimal": "Hispaniolan Trogon",
+    "nationalFlower": "Hibiscus"
+  },
+  "Honduras": {
+    "capital": "Tegucigalpa",
+    "nationalAnimal": "White-tailed Deer",
+    "nationalFlower": "Orchid (Rhyncholaelia digbyana)"
+  },
+  "Hungary": {
+    "capital": "Budapest",
+    "nationalAnimal": "Turul (mythical bird)",
+    "nationalFlower": "Tulip"
+  },
+  "Iceland": {
+    "capital": "Reykjavík",
+    "nationalAnimal": "Gyrfalcon",
+    "nationalFlower": "Mountain Avens"
+  },
+  "India": {
+    "capital": "New Delhi",
+    "nationalAnimal": "Bengal Tiger",
+    "nationalFlower": "Lotus"
+  },
+  "Indonesia": {
+    "capital": "Jakarta",
+    "nationalAnimal": "Komodo Dragon",
+    "nationalFlower": "Jasmine"
+  },
+  "Iran": {
+    "capital": "Tehran",
+    "nationalAnimal": "Asiatic Lion",
+    "nationalFlower": "Tulip"
+  },
+  "Iraq": {
+    "capital": "Baghdad",
+    "nationalAnimal": "Goat",
+    "nationalFlower": "Red Rose"
+  },
+  "Ireland": {
+    "capital": "Dublin",
+    "nationalAnimal": "Irish Wolfhound",
+    "nationalFlower": "Shamrock"
+  },
+  "Israel": {
+    "capital": "Jerusalem",
+    "nationalAnimal": "Israeli Gazelle",
+    "nationalFlower": "Cyclamen"
+  },
+  "Italy": {
+    "capital": "Rome",
+    "nationalAnimal": "Italian Wolf",
+    "nationalFlower": "Lily"
+  },
+  "Ivory Coast": {
+    "capital": "Yamoussoukro",
+    "nationalAnimal": "African Elephant",
+    "nationalFlower": "Baobab Flower"
+  },
+  "Jamaica": {
+    "capital": "Kingston",
+    "nationalAnimal": "Red-billed Streamertail (Doctor Bird)",
+    "nationalFlower": "Lignum Vitae"
+  },
+  "Japan": {
+    "capital": "Tokyo",
+    "nationalAnimal": "Green Pheasant",
+    "nationalFlower": "Cherry Blossom"
+  },
+  "Jordan": {
+    "capital": "Amman",
+    "nationalAnimal": "Arabian Oryx",
+    "nationalFlower": "Black Iris"
+  },
+  "Kazakhstan": {
+    "capital": "Astana",
+    "nationalAnimal": "Golden Eagle",
+    "nationalFlower": "Lily"
+  },
+  "Kenya": {
+    "capital": "Nairobi",
+    "nationalAnimal": "Lion",
+    "nationalFlower": "Orchid"
+  },
+  "Kiribati": {
+    "capital": "Tarawa",
+    "nationalAnimal": "Frigatebird",
+    "nationalFlower": "Bidens Kiribatiensis"
+  },
+  "Kuwait": {
+    "capital": "Kuwait City",
+    "nationalAnimal": "Arabian Camel",
+    "nationalFlower": "Arfaj (Rhanterium epapposum)"
+  },
+  "Kyrgyzstan": {
+    "capital": "Bishkek",
+    "nationalAnimal": "Snow Leopard",
+    "nationalFlower": "Tulip"
+  },
+  "Laos": {
+    "capital": "Vientiane",
+    "nationalAnimal": "Indian Elephant",
+    "nationalFlower": "Dok Champa (Plumeria)"
+  },
+  "Latvia": {
+    "capital": "Riga",
+    "nationalAnimal": "Two-spot Ladybird",
+    "nationalFlower": "Oxeye Daisy"
+  },
+  "Lebanon": {
+    "capital": "Beirut",
+    "nationalAnimal": "Striped Hyena",
+    "nationalFlower": "Rose"
+  },
+  "Lesotho": {
+    "capital": "Maseru",
+    "nationalAnimal": "Black Rhinoceros",
+    "nationalFlower": "Spiral Aloe"
+  },
+  "Liberia": {
+    "capital": "Monrovia",
+    "nationalAnimal": "Lone Star (Lion)",
+    "nationalFlower": "Pepper Flower"
+  },
+  "Libya": {
+    "capital": "Tripoli",
+    "nationalAnimal": "Arabian Eagle",
+    "nationalFlower": "Pomegranate Flower"
+  },
+  "Liechtenstein": {
+    "capital": "Vaduz",
+    "nationalAnimal": "Kestrel",
+    "nationalFlower": "Yellow Gentian"
+  },
+  "Lithuania": {
+    "capital": "Vilnius",
+    "nationalAnimal": "White Stork",
+    "nationalFlower": "Rue"
+  },
+  "Luxembourg": {
+    "capital": "Luxembourg City",
+    "nationalAnimal": "Lion",
+    "nationalFlower": "Rose"
+  },
+  "Madagascar": {
+    "capital": "Antananarivo",
+    "nationalAnimal": "Ring-tailed Lemur",
+    "nationalFlower": "Poinciana"
+  },
+  "Malawi": {
+    "capital": "Lilongwe",
+    "nationalAnimal": "Thomson's Gazelle",
+    "nationalFlower": "Lily"
+  },
+  "Malaysia": {
+    "capital": "Kuala Lumpur",
+    "nationalAnimal": "Malayan Tiger",
+    "nationalFlower": "Hibiscus"
+  },
+  "Maldives": {
+    "capital": "Malé",
+    "nationalAnimal": "Yellowfin Tuna",
+    "nationalFlower": "Pink Rose"
+  },
+  "Mali": {
+    "capital": "Bamako",
+    "nationalAnimal": "Vulture",
+    "nationalFlower": "Baobab Flower"
+  },
+  "Malta": {
+    "capital": "Valletta",
+    "nationalAnimal": "Pharaoh Hound",
+    "nationalFlower": "Maltese Centaury"
+  },
+  "Marshall Islands": {
+    "capital": "Majuro",
+    "nationalAnimal": "Frigatebird",
+    "nationalFlower": "Plumeria"
+  },
+  "Mauritania": {
+    "capital": "Nouakchott",
+    "nationalAnimal": "African Wild Dog",
+    "nationalFlower": "Acacia"
+  },
+  "Mauritius": {
+    "capital": "Port Louis",
+    "nationalAnimal": "Dodo",
+    "nationalFlower": "Trochetia Boutoniana"
+  },
+  "Mexico": {
+    "capital": "Mexico City",
+    "nationalAnimal": "Golden Eagle",
+    "nationalFlower": "Dahlia"
+  },
+  "Micronesia": {
+    "capital": "Palikir",
+    "nationalAnimal": "Fruit Bat",
+    "nationalFlower": "Plumeria"
+  },
+  "Moldova": {
+    "capital": "Chișinău",
+    "nationalAnimal": "Aurochs",
+    "nationalFlower": "Mallow"
+  },
+  "Monaco": {
+    "capital": "Monaco",
+    "nationalAnimal": "Hedgehog",
+    "nationalFlower": "Carnation"
+  },
+  "Mongolia": {
+    "capital": "Ulaanbaatar",
+    "nationalAnimal": "Przewalski's Horse",
+    "nationalFlower": "Scabiosa"
+  },
+  "Montenegro": {
+    "capital": "Podgorica",
+    "nationalAnimal": "Lion",
+    "nationalFlower": "Lily"
+  },
+  "Morocco": {
+    "capital": "Rabat",
+    "nationalAnimal": "Barbary Lion",
+    "nationalFlower": "Rose"
+  },
+  "Mozambique": {
+    "capital": "Maputo",
+    "nationalAnimal": "African Elephant",
+    "nationalFlower": "Maroon Bell Bean"
+  },
+  "Myanmar": {
+    "capital": "Naypyidaw",
+    "nationalAnimal": "Tiger",
+    "nationalFlower": "Paduak"
+  },
+  "Namibia": {
+    "capital": "Windhoek",
+    "nationalAnimal": "Oryx",
+    "nationalFlower": "Welwitschia"
+  },
+  "Nauru": {
+    "capital": "Yaren District (de facto)",
+    "nationalAnimal": "Frigatebird",
+    "nationalFlower": "Calophyllum"
+  },
+  "Nepal": {
+    "capital": "Kathmandu",
+    "nationalAnimal": "Cow",
+    "nationalFlower": "Rhododendron"
+  },
+  "Netherlands": {
+    "capital": "Amsterdam",
+    "nationalAnimal": "Lion",
+    "nationalFlower": "Tulip"
+  },
+  "New Zealand": {
+    "capital": "Wellington",
+    "nationalAnimal": "Kiwi",
+    "nationalFlower": "Kōwhai"
+  },
+  "Nicaragua": {
+    "capital": "Managua",
+    "nationalAnimal": "Turquoise-browed Motmot",
+    "nationalFlower": "Sacuanjoche (Plumeria)"
+  },
+  "Niger": {
+    "capital": "Niamey",
+    "nationalAnimal": "Dama Gazelle",
+    "nationalFlower": "Costus Spectabilis"
+  },
+  "Nigeria": {
+    "capital": "Abuja",
+    "nationalAnimal": "Eagle",
+    "nationalFlower": "Costus Spectabilis"
+  },
+  "North Korea": {
+    "capital": "Pyongyang",
+    "nationalAnimal": "Chollima (mythical horse)",
+    "nationalFlower": "Magnolia"
+  },
+  "North Macedonia": {
+    "capital": "Skopje",
+    "nationalAnimal": "Lion",
+    "nationalFlower": "Poppy"
+  },
+  "Norway": {
+    "capital": "Oslo",
+    "nationalAnimal": "Lion",
+    "nationalFlower": "Purple Heather"
+  },
+  "Oman": {
+    "capital": "Muscat",
+    "nationalAnimal": "Arabian Oryx",
+    "nationalFlower": "Frankincense Flower"
+  },
+   "Pakistan": {
+    "capital": "Islamabad",
+    "nationalAnimal": "Markhor",
+    "nationalFlower": "Jasmine"
+  },
+  "Palau": {
+    "capital": "Ngerulmud",
+    "nationalAnimal": "Fruit Bat",
+    "nationalFlower": "Plumeria"
+  },
+  "Palestine": {
+    "capital": "East Jerusalem",
+    "nationalAnimal": "Mountain Gazelle",
+    "nationalFlower": "Faqqua Iris"
+  },
+  "Panama": {
+    "capital": "Panama City",
+    "nationalAnimal": "Harpy Eagle",
+    "nationalFlower": "Holy Ghost Orchid"
+  },
+  "Papua New Guinea": {
+    "capital": "Port Moresby",
+    "nationalAnimal": "Dugong",
+    "nationalFlower": "Dendrobium Orchid"
+  },
+  "Paraguay": {
+    "capital": "Asunción",
+    "nationalAnimal": "Pampas Fox",
+    "nationalFlower": "Blue Passion Flower"
+  },
+  "Peru": {
+    "capital": "Lima",
+    "nationalAnimal": "Vicuña",
+    "nationalFlower": "Cantuta"
+  },
+  "Philippines": {
+    "capital": "Manila",
+    "nationalAnimal": "Carabao",
+    "nationalFlower": "Sampaguita"
+  },
+  "Poland": {
+    "capital": "Warsaw",
+    "nationalAnimal": "White-tailed Eagle",
+    "nationalFlower": "Red Poppy"
+  },
+  "Portugal": {
+    "capital": "Lisbon",
+    "nationalAnimal": "Iberian Wolf",
+    "nationalFlower": "Lavender"
+  },
+  "Qatar": {
+    "capital": "Doha",
+    "nationalAnimal": "Arabian Oryx",
+    "nationalFlower": "Qataf (Sea Lavender)"
+  },
+  "Romania": {
+    "capital": "Bucharest",
+    "nationalAnimal": "Lynx",
+    "nationalFlower": "Dog Rose"
+  },
+  "Russia": {
+    "capital": "Moscow",
+    "nationalAnimal": "Brown Bear",
+    "nationalFlower": "Chamomile"
+  },
+  "Rwanda": {
+    "capital": "Kigali",
+    "nationalAnimal": "Leopard",
+    "nationalFlower": "Rose"
+  },
+  "Saint Kitts and Nevis": {
+    "capital": "Basseterre",
+    "nationalAnimal": "Brown Pelican",
+    "nationalFlower": "Poinciana"
+  },
+  "Saint Lucia": {
+    "capital": "Castries",
+    "nationalAnimal": "Saint Lucia Parrot",
+    "nationalFlower": "Rose and Marguerite"
+  },
+  "Saint Vincent and the Grenadines": {
+    "capital": "Kingstown",
+    "nationalAnimal": "Saint Vincent Parrot",
+    "nationalFlower": "Soufriere Tree"
+  },
+  "Samoa": {
+    "capital": "Apia",
+    "nationalAnimal": "Manumea",
+    "nationalFlower": "Teuila"
+  },
+  "San Marino": {
+    "capital": "San Marino",
+    "nationalAnimal": "Apennine Wolf",
+    "nationalFlower": "Cyclamen"
+  },
+  "Sao Tome and Principe": {
+    "capital": "São Tomé",
+    "nationalAnimal": "Grey Parrot",
+    "nationalFlower": "Rose"
+  },
+  "Saudi Arabia": {
+    "capital": "Riyadh",
+    "nationalAnimal": "Arabian Camel",
+    "nationalFlower": "Arfaj"
+  },
+  "Senegal": {
+    "capital": "Dakar",
+    "nationalAnimal": "Lion",
+    "nationalFlower": "Baobab Flower"
+  },
+  "Serbia": {
+    "capital": "Belgrade",
+    "nationalAnimal": "Wolf",
+    "nationalFlower": "Lily"
+  },
+  "Seychelles": {
+    "capital": "Victoria",
+    "nationalAnimal": "Seychelles Black Parrot",
+    "nationalFlower": "Tropicbird Orchid"
+  },
+  "Sierra Leone": {
+    "capital": "Freetown",
+    "nationalAnimal": "Lion",
+    "nationalFlower": "Peninsula Hibiscus"
+  },
+  "Singapore": {
+    "capital": "Singapore",
+    "nationalAnimal": "Lion",
+    "nationalFlower": "Vanda Miss Joaquim"
+  },
+  "Slovakia": {
+    "capital": "Bratislava",
+    "nationalAnimal": "Double-tailed Lion",
+    "nationalFlower": "Rose"
+  },
+  "Slovenia": {
+    "capital": "Ljubljana",
+    "nationalAnimal": "Lynx",
+    "nationalFlower": "Carnation"
+  },
+  "Solomon Islands": {
+    "capital": "Honiara",
+    "nationalAnimal": "Frigatebird",
+    "nationalFlower": "Hibiscus"
+  },
+  "Somalia": {
+    "capital": "Mogadishu",
+    "nationalAnimal": "Leopard",
+    "nationalFlower": "King Protea"
+  },
+  "South Africa": {
+    "capital": "Pretoria",
+    "nationalAnimal": "Springbok",
+    "nationalFlower": "King Protea"
+  },
+  "South Korea": {
+    "capital": "Seoul",
+    "nationalAnimal": "Siberian Tiger",
+    "nationalFlower": "Rose of Sharon"
+  },
+  "South Sudan": {
+    "capital": "Juba",
+    "nationalAnimal": "African Fish Eagle",
+    "nationalFlower": "Nile Tulip"
+  },
+  "Spain": {
+    "capital": "Madrid",
+    "nationalAnimal": "Bull",
+    "nationalFlower": "Red Carnation"
+  },
+  "Sri Lanka": {
+    "capital": "Sri Jayawardenepura Kotte",
+    "nationalAnimal": "Sri Lankan Elephant",
+    "nationalFlower": "Blue Water Lily"
+  },
+  "Sudan": {
+    "capital": "Khartoum",
+    "nationalAnimal": "Secretary Bird",
+    "nationalFlower": "Hibiscus"
+  },
+  "Suriname": {
+    "capital": "Paramaribo",
+    "nationalAnimal": "Jaguar",
+    "nationalFlower": "Faya Lobi"
+  },
+  "Sweden": {
+    "capital": "Stockholm",
+    "nationalAnimal": "Eurasian Elk",
+    "nationalFlower": "Linnaea"
+  },
+  "Switzerland": {
+    "capital": "Bern",
+    "nationalAnimal": "Cow",
+    "nationalFlower": "Edelweiss"
+  },
+  "Syria": {
+    "capital": "Damascus",
+    "nationalAnimal": "Syrian Brown Bear",
+    "nationalFlower": "Jasmine"
+  },
+   "Uganda": {
+    "capital": "Kampala",
+    "nationalAnimal": "Grey Crowned Crane",
+    "nationalFlower": "Not designated"
+  },
+  "Ukraine": {
+    "capital": "Kyiv",
+    "nationalAnimal": "Common Nightingale",
+    "nationalFlower": "Sunflower"
+  },
+  "United Arab Emirates": {
+    "capital": "Abu Dhabi",
+    "nationalAnimal": "Arabian Oryx",
+    "nationalFlower": "Tribulus Omanense"
+  },
+  "United Kingdom": {
+    "capital": "London",
+    "nationalAnimal": "Lion",
+    "nationalFlower": "Rose"
+  },
+  "United States": {
+    "capital": "Washington, D.C.",
+    "nationalAnimal": "Bald Eagle",
+    "nationalFlower": "Rose"
+  },
+  "Uruguay": {
+    "capital": "Montevideo",
+    "nationalAnimal": "Southern Lapwing",
+    "nationalFlower": "Ceibo Flower"
+  },
+  "Uzbekistan": {
+    "capital": "Tashkent",
+    "nationalAnimal": "Turkestan Sand Cat",
+    "nationalFlower": "Not designated"
+  },
+   "Vanuatu": {
+    "capital": "Port Vila",
+    "nationalAnimal": "Not designated",
+    "nationalFlower": "Not designated"
+  },
+  "Vatican City": {
+    "capital": "Vatican City",
+    "nationalAnimal": "Not designated",
+    "nationalFlower": "Not designated"
+  },
+  "Venezuela": {
+    "capital": "Caracas",
+    "nationalAnimal": "Venezuelan Troupial",
+    "nationalFlower": "Flor de Mayo Orchid"
+  },
+  "Vietnam": {
+    "capital": "Hanoi",
+    "nationalAnimal": "Water Buffalo",
+    "nationalFlower": "Lotus"
+  },
+  "Zambia": {
+    "capital": "Lusaka",
+    "nationalAnimal": "African Fish Eagle",
+    "nationalFlower": "Bougainvillea"
+  },
+  "Zimbabwe": {
+    "capital": "Harare",
+    "nationalAnimal": "Sable Antelope",
+    "nationalFlower": "Flame Lily"
+  }
+}
